@@ -1,0 +1,24 @@
+{
+  "name": "create-dd-app",
+  "version": "1.1.1",
+  "description": "dd`s TS+React boilerplate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-dd-app": "./bin/generate-app.js"
+  },
+  "keywords": [
+    "react",
+    "boilerplate",
+    "typescript",
+    "starter"
+  ],
+  "author": "jjunyjjuny",
+  "homepage": "https://github.com/jjunyjjuny/react-typescript-boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjunyjjuny/react-typescript-boilerplate"
+  },
+  "license": "ISC"
+}
